@@ -17,3 +17,7 @@ The following are all major coding projects completed in my university courses. 
 ### [Project 1 - Basic Car Hire Booking System](https://github.com/Andrew-Sanger/University-Project-01)
 *(Java)*
 My first major programming project completed in Java (The first time i ever coded in Java.) A simple car booking data entry system, very basic.
+
+### [Project 2 - Patient Management System](https://github.com/Andrew-Sanger/University-Project-02)
+*(Java)*
+My second major programming project completed in Java. A simple patient management system. Basic introduction to classes and objects.
