@@ -21,3 +21,7 @@ My first major programming project completed in Java (The first time i ever code
 ### [Project 2 - Patient Management System](https://github.com/Andrew-Sanger/University-Project-02)
 *(Java)*
 My second major programming project completed in Java. A simple patient management system. Basic introduction to classes and objects.
+
+### [Project 3 - Tour Booking System](https://github.com/Andrew-Sanger/University-Project-03)
+*(Java)*
+The third and final project in the Programming 1 course. A more complicated project than the last two, using more complicated ideas, such as error, exceptions and file handling.
