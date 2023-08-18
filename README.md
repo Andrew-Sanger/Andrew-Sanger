@@ -11,4 +11,9 @@ A Java Codecademy project to show experience in most java techniques and JUnit5 
 A HTML Codecademy project designed to practice Git/GitBash/GitHub skills, plus very basic webpage design and styling.
 
 ## University Projects:
-(To be completed) A place to showcase previous university projects completed, will be uploaded very soon.
+The following are all major coding projects completed in my university courses. Other major projects completed that are not coding based have not been included in this list.
+
+### Programming 1
+### [Project 1 - Basic Car Hire Booking System](https://github.com/Andrew-Sanger/University-Project-01)
+*(Java)*
+My first major programming project completed in Java (The first time i ever coded in Java.) A simple car booking data entry system, very basic.
