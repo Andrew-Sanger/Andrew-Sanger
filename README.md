@@ -14,19 +14,20 @@ A HTML Codecademy project designed to practice Git/GitBash/GitHub skills, plus v
 The following are all major coding projects completed in my university courses. Other major projects completed that are not coding based have not been included in this list.
 
 ### Programming 1
-### [Project 1 - Basic Car Hire Booking System](https://github.com/Andrew-Sanger/University-Project-01)
+#### [Project 1 - Basic Car Hire Booking System](https://github.com/Andrew-Sanger/University-Project-01)
 *(Java)*
 My first major programming project completed in Java (The first time i ever coded in Java.) A simple car booking data entry system, very basic.
 
-### [Project 2 - Patient Management System](https://github.com/Andrew-Sanger/University-Project-02)
+#### [Project 2 - Patient Management System](https://github.com/Andrew-Sanger/University-Project-02)
 *(Java)*
 My second major programming project completed in Java. A simple patient management system. Basic introduction to classes and objects.
 
-### [Project 3 - Tour Booking System](https://github.com/Andrew-Sanger/University-Project-03)
+#### [Project 3 - Tour Booking System](https://github.com/Andrew-Sanger/University-Project-03)
 *(Java)*
 The third and final project in the Programming 1 course. A more complicated project than the last two, using more complicated ideas, such as error, exceptions and file handling.
 
-### [Project 4 - Library Management System](https://github.com/Andrew-Sanger/University-Project-04)
+### Programming 2
+#### [Project 4 - Library Management System](https://github.com/Andrew-Sanger/University-Project-04)
 *(Java)*
 The first project in the Programming 2 course. This Java project required the use of a lot more complicated ideas such as UML, objects, abstraction, interfaces, facades etc.
 
