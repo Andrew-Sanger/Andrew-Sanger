@@ -25,3 +25,9 @@ My second major programming project completed in Java. A simple patient manageme
 ### [Project 3 - Tour Booking System](https://github.com/Andrew-Sanger/University-Project-03)
 *(Java)*
 The third and final project in the Programming 1 course. A more complicated project than the last two, using more complicated ideas, such as error, exceptions and file handling.
+
+### [Project 4 - Library Management System](https://github.com/Andrew-Sanger/University-Project-04)
+*(Java)*
+The first project in the Programming 2 course. This Java project required the use of a lot more complicated ideas such as UML, objects, abstraction, interfaces, facades etc.
+
+NOTE: Some of the code containted within this assignment such as the test harness was written by the Professor, and is labelled as such at the top of the code. Anything else is my own creation.
