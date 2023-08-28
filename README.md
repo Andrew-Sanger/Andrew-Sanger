@@ -13,6 +13,8 @@ A HTML Codecademy project designed to practice Git/GitBash/GitHub skills, plus v
 ## University Projects:
 The following are all major coding projects completed in my university courses. Other major projects completed that are not coding based have not been included in this list.
 
+***NOTE: Some of the code contained within these assignments was written by the Professor, and is labelled as such at the top of the code. Anything else is my own creation.***
+
 ### Programming 1
 #### [Project 1 - Basic Car Hire Booking System](https://github.com/Andrew-Sanger/University-Project-01)
 *(Java)*
@@ -34,5 +36,3 @@ The first project in the Programming 2 course. This Java project required the us
 #### [Project 5 - Library Management System GUI](https://github.com/Andrew-Sanger/University-Project-05)
 *(Java)*
 The second project in the Programming 2 course. This Java project uses a lot of advanced programming techniques and builds upon the first Programming 1 project by creating an easy to use GUI.
-
-***NOTE: Some of the code contained within these assignments was written by the Professor, and is labelled as such at the top of the code. Anything else is my own creation.***
