@@ -3,12 +3,24 @@ Hi, I'm **Andrew Sanger** and this is my GitHub.
 I'm currently looking for work as an entry-level Software Developer. I have experience with most coding languages but mainly in Java. This GitHub is currently a work-in-progress and will be updated a lot in the coming weeks. I intend to supply links to the many projects and assignments ive done over the years.
 
 ## Portfolio Projects:
+### [Achievement Tracker App](https://github.com/Andrew-Sanger/Achievement-Tracker-App)
+- *(Swift, Xcode, CoreData, MVVM, SQLite, macOS)*
+- Designed and developed an iOS application enabling users to track multi-step progress goals with persistent local storage.
+- Implemented intuitive UI components, dynamic filtering, and data management to enhance usability and engagement.
+### [Imagene - Genetic Image Evolver (to be added)](-) 
+- *(Genetic Algorithms, Agile/SCRUM)*
+- Collaborated in a team to develop an evolutionary art generator using genetic programming techniques.
+- Applied Agile practices to iteratively evolve image aesthetics based on user-defined fitness criteria and algorithmic mutation.
+### [Avalanche Arbitrage Bot (to be added)](-)
+- *(Python, Web3.py, EVM)*
+- Engineered a crypto trading bot that scans Uniswap-based liquidity pools on the Avalanche network to identify and execute arbitrage opportunities.
+- Automated transaction generation and profit capture using smart contract interactions and blockchain data analysis.
 ### [Aliens vs Humans](https://github.com/Andrew-Sanger/aliens_vs_humans)
-*(Java + JUnit5 Testing)*
-A Java Codecademy project to show experience in most java techniques and JUnit5 testing. *(Work in Progress)* 
+- *(Java + JUnit5 Testing)*
+- A Java Codecademy project to show experience in most java techniques and JUnit5 testing. *(Work in Progress)* 
 ### [Excursion](https://github.com/Andrew-Sanger/Project-1-Excursion)
-*(HTML, CSS, GitHub/GitBash)*
-A HTML Codecademy project designed to practice Git/GitBash/GitHub skills, plus very basic webpage design and styling.
+- *(HTML, CSS, GitHub/GitBash)*
+- A HTML Codecademy project designed to practice Git/GitBash/GitHub skills, plus very basic webpage design and styling.
 
 ## University Projects:
 The following are all major coding projects completed in my university courses. Other major projects completed that are not coding based have not been included in this list.
