@@ -7,14 +7,15 @@ I'm currently looking for work as an entry-level Software Developer. I have expe
 - *(Swift, Xcode, CoreData, MVVM, SQLite, macOS)*
 - Designed and developed an iOS application enabling users to track multi-step progress goals with persistent local storage.
 - Implemented intuitive UI components, dynamic filtering, and data management to enhance usability and engagement.
+### [Avalanche Arbitrage Bot](https://github.com/Andrew-Sanger/Avalanche-Arbitrage-Bot)
+- *(Python, Web3.py, Blockchain APIs, DeFi Protocols)*
+- Engineered a crypto trading bot that scans Uniswap-based liquidity pools on the Avalanche network to identify and execute arbitrage opportunities.
+- Automated transaction generation and profit capture using smart contract interactions and blockchain data analysis.
 ### [Imagene - Genetic Image Evolver (to be added)](-) 
 - *(Genetic Algorithms, Agile/SCRUM)*
 - Collaborated in a team to develop an evolutionary art generator using genetic programming techniques.
 - Applied Agile practices to iteratively evolve image aesthetics based on user-defined fitness criteria and algorithmic mutation.
-### [Avalanche Arbitrage Bot (to be added)](-)
-- *(Python, Web3.py, EVM)*
-- Engineered a crypto trading bot that scans Uniswap-based liquidity pools on the Avalanche network to identify and execute arbitrage opportunities.
-- Automated transaction generation and profit capture using smart contract interactions and blockchain data analysis.
+
 ### [Aliens vs Humans](https://github.com/Andrew-Sanger/aliens_vs_humans)
 - *(Java + JUnit5 Testing)*
 - A Java Codecademy project to show experience in most java techniques and JUnit5 testing. *(Work in Progress)* 
